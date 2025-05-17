@@ -22,7 +22,7 @@
         <mxCell id="CrYUlJLIMERXn8_kIBbB-46" value="写作业" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="351" y="157" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CrYUlJLIMERXn8_kIBbB-52" value="是否写完作业" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-52" value="剩余时间是否大于15分钟" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="142" y="312" width="126" height="80" as="geometry" />
         </mxCell>
       </root>
