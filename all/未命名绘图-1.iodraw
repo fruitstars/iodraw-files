@@ -64,6 +64,11 @@
         <mxCell id="CrYUlJLIMERXn8_kIBbB-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CrYUlJLIMERXn8_kIBbB-59" target="CrYUlJLIMERXn8_kIBbB-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-83" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CrYUlJLIMERXn8_kIBbB-82">
+          <mxGeometry x="-0.6096" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-59" value="是否正在上晚自习" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="142" y="147" width="126" height="80" as="geometry" />
         </mxCell>
@@ -108,7 +113,7 @@
             <mxPoint x="-46" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CrYUlJLIMERXn8_kIBbB-81" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-81" value="课内学习" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="351" y="157" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
