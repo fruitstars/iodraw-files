@@ -31,8 +31,8 @@
         <mxCell id="CrYUlJLIMERXn8_kIBbB-44" value="是否写完作业" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="142" y="308" width="126" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CrYUlJLIMERXn8_kIBbB-46" value="写作业" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="401" y="483" width="120" height="60" as="geometry" />
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-46" value="写作业或课内学习" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="483" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CrYUlJLIMERXn8_kIBbB-52" target="CrYUlJLIMERXn8_kIBbB-46">
           <mxGeometry relative="1" as="geometry" />
