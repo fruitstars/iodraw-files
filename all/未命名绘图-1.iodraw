@@ -17,7 +17,7 @@
           <mxGeometry x="145" y="158" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-19" value="作业是否多" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="165" y="288" width="80" height="80" as="geometry" />
+          <mxGeometry x="165" y="288" width="122" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
