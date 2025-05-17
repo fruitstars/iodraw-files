@@ -58,11 +58,11 @@
         </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-69" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CrYUlJLIMERXn8_kIBbB-60">
           <mxGeometry x="0.1122" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="-15" as="offset" />
+            <mxPoint x="-1" y="-35" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-59" value="是否正在上晚自习" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="142" y="187" width="126" height="80" as="geometry" />
+          <mxGeometry x="142" y="147" width="126" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CrYUlJLIMERXn8_kIBbB-61" target="CrYUlJLIMERXn8_kIBbB-66">
           <mxGeometry relative="1" as="geometry" />
