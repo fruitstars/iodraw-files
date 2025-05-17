@@ -45,7 +45,7 @@
         <mxCell id="CrYUlJLIMERXn8_kIBbB-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CrYUlJLIMERXn8_kIBbB-52" target="CrYUlJLIMERXn8_kIBbB-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CrYUlJLIMERXn8_kIBbB-73" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CrYUlJLIMERXn8_kIBbB-62">
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-73" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CrYUlJLIMERXn8_kIBbB-62">
           <mxGeometry x="-0.105" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -84,6 +84,9 @@
         </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-66" value="学习兴趣" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="268" y="859" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-74" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="324" y="655" width="30" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
