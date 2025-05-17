@@ -41,6 +41,9 @@
         <mxCell id="CrYUlJLIMERXn8_kIBbB-23" value="写作业" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="333" y="303" width="101" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CrYUlJLIMERXn8_kIBbB-32" target="CrYUlJLIMERXn8_kIBbB-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-32" value="作业是否写完" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="144" y="442" width="122" height="80" as="geometry" />
         </mxCell>
