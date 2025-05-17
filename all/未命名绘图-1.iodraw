@@ -4,17 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="T6xeFL8aMpnNpmhYY8t2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="144" y="64" as="sourcePoint" />
-            <mxPoint x="208" y="64" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="292" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T6xeFL8aMpnNpmhYY8t2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="328" y="64" as="sourcePoint" />
-            <mxPoint x="374" y="64" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-2" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312" y="222" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="292" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-4" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="292" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="282" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
