@@ -25,19 +25,11 @@
         <mxCell id="WybjuUw7ON86J9r2waM5-6" value="休息5分钟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="312" y="348" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WybjuUw7ON86J9r2waM5-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WybjuUw7ON86J9r2waM5-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="532" y="108" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WybjuUw7ON86J9r2waM5-8" value="学习30分钟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="472" y="188" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WybjuUw7ON86J9r2waM5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="441.20001220703125" y="220" as="targetPoint" />
-            <mxPoint x="472" y="78" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="WybjuUw7ON86J9r2waM5-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="696" y="178" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
