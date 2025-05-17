@@ -22,8 +22,8 @@
         <mxCell id="CrYUlJLIMERXn8_kIBbB-19" value="作业是否多" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="144" y="282" width="122" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CrYUlJLIMERXn8_kIBbB-23" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="347" y="292" width="120" height="60" as="geometry" />
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-23" value="写作业" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="347" y="314" width="101" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
