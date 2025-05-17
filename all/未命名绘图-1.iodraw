@@ -70,14 +70,29 @@
         <mxCell id="CrYUlJLIMERXn8_kIBbB-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CrYUlJLIMERXn8_kIBbB-61" target="CrYUlJLIMERXn8_kIBbB-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-75" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CrYUlJLIMERXn8_kIBbB-67">
+          <mxGeometry x="-0.719" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-61" value="是否临近考试" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="134" y="633" width="142" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CrYUlJLIMERXn8_kIBbB-63" target="CrYUlJLIMERXn8_kIBbB-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-76" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CrYUlJLIMERXn8_kIBbB-65">
+          <mxGeometry x="-0.5863" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="CrYUlJLIMERXn8_kIBbB-63" target="CrYUlJLIMERXn8_kIBbB-66">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-77" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CrYUlJLIMERXn8_kIBbB-68">
+          <mxGeometry x="-0.513" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-63" value="考试是否重要" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="388" y="633" width="142" height="80" as="geometry" />
