@@ -72,7 +72,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-59" value="是否正在上晚自习&lt;div&gt;或正在放假&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="126.5" y="147" width="157" height="84" as="geometry" />
+          <mxGeometry x="126.5" y="152" width="157" height="84" as="geometry" />
         </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CrYUlJLIMERXn8_kIBbB-61" target="CrYUlJLIMERXn8_kIBbB-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -105,7 +105,7 @@
           <mxGeometry x="388" y="633" width="142" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-66" value="学习兴趣" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="268" y="859" width="120" height="60" as="geometry" />
+          <mxGeometry x="268" y="808" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.059;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CrYUlJLIMERXn8_kIBbB-61" target="CrYUlJLIMERXn8_kIBbB-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
