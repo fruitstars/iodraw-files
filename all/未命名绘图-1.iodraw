@@ -19,6 +19,14 @@
         <mxCell id="CrYUlJLIMERXn8_kIBbB-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CrYUlJLIMERXn8_kIBbB-19" target="CrYUlJLIMERXn8_kIBbB-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CrYUlJLIMERXn8_kIBbB-19" target="CrYUlJLIMERXn8_kIBbB-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-31" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CrYUlJLIMERXn8_kIBbB-30">
+          <mxGeometry x="-0.0311" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-19" value="作业是否多" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="144" y="282" width="122" height="80" as="geometry" />
         </mxCell>
@@ -37,6 +45,9 @@
         </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-23" value="写作业" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="333" y="303" width="101" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-29" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="452" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
