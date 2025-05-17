@@ -25,8 +25,14 @@
         <mxCell id="WybjuUw7ON86J9r2waM5-6" value="休息5分钟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="98" y="388" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WybjuUw7ON86J9r2waM5-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WybjuUw7ON86J9r2waM5-8" target="WybjuUw7ON86J9r2waM5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WybjuUw7ON86J9r2waM5-8" value="学习30分钟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="258" y="228" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WybjuUw7ON86J9r2waM5-11" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="458" y="228" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
