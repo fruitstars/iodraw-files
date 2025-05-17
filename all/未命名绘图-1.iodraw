@@ -46,8 +46,14 @@
         <mxCell id="CrYUlJLIMERXn8_kIBbB-23" value="写作业" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="333" y="303" width="101" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CrYUlJLIMERXn8_kIBbB-32" target="CrYUlJLIMERXn8_kIBbB-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-32" value="时间是否大于20分钟" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="135" y="442" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-35" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="452" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
