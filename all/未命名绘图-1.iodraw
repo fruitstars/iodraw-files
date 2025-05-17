@@ -54,7 +54,7 @@
         <mxCell id="CrYUlJLIMERXn8_kIBbB-63" value="考试是否重要" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="388" y="633" width="142" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CrYUlJLIMERXn8_kIBbB-66" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-66" value="学习兴趣" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="803" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
