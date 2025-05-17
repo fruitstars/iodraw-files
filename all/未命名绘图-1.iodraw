@@ -16,8 +16,14 @@
         <mxCell id="CrYUlJLIMERXn8_kIBbB-15" value="选择学习项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="158" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CrYUlJLIMERXn8_kIBbB-19" target="CrYUlJLIMERXn8_kIBbB-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-19" value="作业是否多" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="165" y="288" width="122" height="80" as="geometry" />
+          <mxGeometry x="144" y="282" width="122" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-23" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="347" y="292" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
