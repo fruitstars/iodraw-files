@@ -25,6 +25,9 @@
         <mxCell id="WybjuUw7ON86J9r2waM5-6" value="休息5分钟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="312" y="348" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WybjuUw7ON86J9r2waM5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WybjuUw7ON86J9r2waM5-8" target="WybjuUw7ON86J9r2waM5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WybjuUw7ON86J9r2waM5-8" value="学习30分钟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="472" y="188" width="120" height="60" as="geometry" />
         </mxCell>
