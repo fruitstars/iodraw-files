@@ -13,11 +13,20 @@
         <mxCell id="WybjuUw7ON86J9r2waM5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WybjuUw7ON86J9r2waM5-4" target="WybjuUw7ON86J9r2waM5-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WybjuUw7ON86J9r2waM5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WybjuUw7ON86J9r2waM5-4" target="WybjuUw7ON86J9r2waM5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WybjuUw7ON86J9r2waM5-4" value="是否困倦" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="118" y="218" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="WybjuUw7ON86J9r2waM5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WybjuUw7ON86J9r2waM5-6" target="WybjuUw7ON86J9r2waM5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WybjuUw7ON86J9r2waM5-6" value="休息5分钟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="98" y="388" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WybjuUw7ON86J9r2waM5-8" value="学习30分钟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="258" y="228" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
