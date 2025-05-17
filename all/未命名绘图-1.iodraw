@@ -61,6 +61,9 @@
             <mxPoint x="-1" y="-35" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CrYUlJLIMERXn8_kIBbB-59" target="CrYUlJLIMERXn8_kIBbB-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-59" value="是否正在上晚自习" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="142" y="147" width="126" height="80" as="geometry" />
         </mxCell>
@@ -104,6 +107,9 @@
           <mxGeometry x="-0.051" y="4" relative="1" as="geometry">
             <mxPoint x="-46" y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-81" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="157" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
