@@ -10,8 +10,8 @@
         <mxCell id="CrYUlJLIMERXn8_kIBbB-6" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="51" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CrYUlJLIMERXn8_kIBbB-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="178" width="120" height="60" as="geometry" />
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-15" value="选择学习项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="158" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
