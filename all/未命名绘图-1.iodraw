@@ -39,7 +39,7 @@
         <mxCell id="CrYUlJLIMERXn8_kIBbB-59" value="是否正在上晚自习" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="142" y="187" width="126" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CrYUlJLIMERXn8_kIBbB-61" value="剩余时间是否&lt;div&gt;大于15分钟&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-61" value="是否临近考试" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="134" y="633" width="142" height="80" as="geometry" />
         </mxCell>
       </root>
