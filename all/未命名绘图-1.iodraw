@@ -30,8 +30,11 @@
         <mxCell id="CrYUlJLIMERXn8_kIBbB-52" value="剩余时间是否&lt;div&gt;大于15分钟&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="208" y="552" width="142" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="CrYUlJLIMERXn8_kIBbB-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CrYUlJLIMERXn8_kIBbB-59" target="CrYUlJLIMERXn8_kIBbB-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-59" value="是否正在上晚自习" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="187" width="80" height="80" as="geometry" />
+          <mxGeometry x="142" y="187" width="126" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
