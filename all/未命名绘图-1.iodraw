@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CrYUlJLIMERXn8_kIBbB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CrYUlJLIMERXn8_kIBbB-6" target="CrYUlJLIMERXn8_kIBbB-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-6" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="51" width="120" height="60" as="geometry" />
         </mxCell>
@@ -17,16 +14,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-44" value="是否写完作业" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="142" y="147" width="126" height="80" as="geometry" />
+          <mxGeometry x="216" y="387" width="126" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-46" value="写作业" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="351" y="157" width="120" height="60" as="geometry" />
+          <mxGeometry x="425" y="397" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CrYUlJLIMERXn8_kIBbB-52" target="CrYUlJLIMERXn8_kIBbB-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CrYUlJLIMERXn8_kIBbB-52" value="剩余时间是否&lt;div&gt;大于15分钟&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="134" y="312" width="142" height="80" as="geometry" />
+          <mxGeometry x="208" y="552" width="142" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
